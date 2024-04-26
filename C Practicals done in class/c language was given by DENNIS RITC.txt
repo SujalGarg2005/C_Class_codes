@@ -1,0 +1,3 @@
+c language was given by DENNIS RITCHIE in 1972 at A7's & Bell laboratory in USA . 
+ALGOL Pascal or P was replaced by C language.
+COMPUTER - Common Operating Machine Purposely Used for Technological and Educational Research.

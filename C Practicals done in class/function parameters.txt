@@ -1,0 +1,6 @@
+ here value of actuall permeter will be copy to formal perameter and these two diff peremetr store value in diff locations i.e call by value 
+ here both actual and formal paremter REFER TO Same memory loaction therefore any change made to the formal paremter will get reflected to ACTUALL PAREMETR here instead of passinf=g values we pass addreses
+ {int x = 10 
+ y =20 
+ fun(&x,&y)}
+Address of x and  y  is recieved than special kind of variable is required to store them as if we simpally declare the vaariable in the perameter list they are not capable of holding the adreess therefore we require special variable called pointers so pointers are those variable which can store adress of some other variable.   
